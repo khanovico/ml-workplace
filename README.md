@@ -1,25 +1,9 @@
-# Python Codes in Data Science
-
-Codes in NLP, Deep Learning, Reinforcement Learning and Artificial Intelligence
+# My Machine Learning Workspace
 
 <b> Welcome to my GitHub repo. </b>
 
-I am a Data Scientist and I code in R, Python and Wolfram Mathematica. Here you will find some Machine Learning, Deep Learning, Natural Language Processing and Artificial Intelligence models I developed.
-
 ---------------
 Keras version used in models: keras==1.1.0
-
-<b> Autoencoder for Audio  </b> is a model where I compressed an audio file and used Autoencoder to reconstruct the audio file, for use in phoneme classification.
-
-<b> Collaborative Filtering  </b> is a Recommender System where the algorithm predicts a movie review based on genre of movie and similarity among people who watched the same movie.
-
-<b> Convolutional NN Lasagne  </b> is a Convolutional Neural Network model in Lasagne to solve the MNIST task.
-
-<b> Ensembled Machine Learning </b> is a .py file where 7 Machine Learning algorithms are used in a classification task with 3 classes and all possible hyperparameters of each algorithm are adjusted. Iris dataset of scikit-learn.
-
-<p align="center">
-<img src=https://github.com/RubensZimbres/Repo-2017/raw/master/Pictures%20-%20Formulas/Ensembled.MachineLearning.png?raw=true>
-</p>
 
 <b> GAN Generative Adversarial  </b> are models of Generative Adversarial Neural Networks.
 
@@ -95,10 +79,6 @@ Keras version used in models: keras==1.1.0
 
 <b> Time Series Prediction with Neural Networks - Keras </b>  is a Neural Network model to forecast time series, using Keras with an adaptive learning rate depending upon derivative of loss.
 
-<p align="center">
-<img src=https://github.com/RubensZimbres/Repo-2017/blob/master/Pictures%20-%20Formulas/ARIMA.10Period.png?raw=true> 
-</p>
-
 <b> Variational Autoencoder  </b> is a VAE made with Keras.
 
 <b> Web Crawler  </b> is a code that scraps data from different URLs of a hotel website.
@@ -108,16 +88,3 @@ Keras version used in models: keras==1.1.0
 <b> t-SNE PCA + Neural Networks  </b> is a model that compares performance or Neural Networks made after t-SNE, PCA and K-Means.
 
 <b> t-SNE PCA LDA embeddings </b> is a model where t-SNE, Principal Components Analysis, Linear Discriminant Analysis and Random Forest embeddings are compared in a task to classify clusters of similar digits.
-
-<p align="center">
-<img src=https://github.com/RubensZimbres/Repo-2017/raw/master/Pictures%20-%20Formulas/Doc2Vec.png?raw=true>
-</p>
-
-<p align="center">
-<img src=https://github.com/RubensZimbres/Repo-2017/raw/master/Pictures%20-%20Formulas/t_SNE_Lk.png?raw=true>
-</p>
-
-<p align="center">
-<img src=https://github.com/RubensZimbres/Repo-2017/blob/master/Pictures%20-%20Formulas/RESNET_Me.jpg?raw=true>
-</p>
-
