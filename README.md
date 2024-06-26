@@ -19,10 +19,6 @@ Keras version used in models: keras==1.1.0
 
 <b> Neural Networks for Regression  </b> shows multiple solutions for a regression problem, solved with sklearn, Keras, Theano and Lasagne. It uses the Boston dataset sample file from sklearn and reaches more than 98% accuracy.
 
-<p align="center">
-<img src=https://github.com/RubensZimbres/Repo-2017/raw/master/Pictures%20-%20Formulas/HiddenLayers.jpg?raw=true>
-</p>
-
 <b> NLP + Naive Bayes Classifier  </b> is a model where movie reviews were labeled as positive and negative and the algorithm then classifies a totally new set of reviews using Logistic Regression, Decision Trees and Naive Bayes, reaching an accuracy of 92%.
 
 <b> NLP Anger Analysis  </b> is a Doc2Vec model associated with Word2Vec model to analyze level of anger using synonyms in consumer complaints of a U.S. retailer in Facebook posts.
